@@ -1,6 +1,6 @@
 # npmdoc-sass-module-importer
 
-#### api documentation for  [sass-module-importer (v1.4.0)](https://github.com/lucasmotta/sass-module-importer#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-sass-module-importer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sass-module-importer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sass-module-importer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sass-module-importer)
+#### basic api documentation for  [sass-module-importer (v1.4.0)](https://github.com/lucasmotta/sass-module-importer#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-sass-module-importer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sass-module-importer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sass-module-importer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sass-module-importer)
 
 #### Import Sass files from NPM and Bower Modules
 
@@ -89,7 +89,8 @@
         "test": "mocha --compilers js:buble/register",
         "version": "npm run build"
     },
-    "version": "1.4.0"
+    "version": "1.4.0",
+    "bin": {}
 }
 ```
 

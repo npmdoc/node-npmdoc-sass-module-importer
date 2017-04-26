@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### api documentation for  [sass-module-importer (v1.4.0)](https://github.com/lucasmotta/sass-module-importer#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-sass-module-importer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sass-module-importer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sass-module-importer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sass-module-importer)",
+    "description": "#### basic api documentation for  [sass-module-importer (v1.4.0)](https://github.com/lucasmotta/sass-module-importer#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-sass-module-importer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sass-module-importer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sass-module-importer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sass-module-importer)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "sass-module-importer": "*",
@@ -35,5 +35,5 @@
         "start": "PORT=${PORT:-8080} utility2 start test.js",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "2017.4.26"
 }
